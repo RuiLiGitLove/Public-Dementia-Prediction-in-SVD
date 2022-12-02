@@ -1,0 +1,5 @@
+Metric,ROC-AUC,ROC-AUC,G-mean,G-mean,Precision,Precision,Sensitivity,Sensitivity,Specificity,Specificity,MAA,MAA,Accuracy,Accuracy
+Dataset,train_valid,test,train_valid,test,train_valid,test,train_valid,test,train_valid,test,train_valid,test,train_valid,test
+SVM,,,,,,,,,,,,,,
+Mean,0.889,0.858,0.806,0.782,0.202,0.192,0.844,0.811,0.77,0.764,0.807,0.787,0.774,0.767
+SD,0.023,0.055,0.032,0.079,0.025,0.043,0.052,0.161,0.026,0.035,0.032,0.079,0.025,0.032

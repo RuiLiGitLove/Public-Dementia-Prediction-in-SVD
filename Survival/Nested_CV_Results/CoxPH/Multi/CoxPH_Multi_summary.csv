@@ -1,0 +1,5 @@
+Metric,Harrell_C,Harrell_C,Uno_C,Uno_C,IBS,IBS
+Dataset,train_valid,test,train_valid,test,train_valid,test
+CoxPH,,,,,,
+Mean,0.873,0.858,0.87,0.85,0.051,0.056
+SD,0.013,0.055,0.014,0.058,0.003,0.012
