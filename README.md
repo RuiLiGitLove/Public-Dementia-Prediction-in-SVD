@@ -1,6 +1,6 @@
 # Dementia-Prediction-in-SVD
 
-This repository contains the code for the paper **Predicting Incident Dementia in Cerebral Small Vessel Disease – Comparison of Machine Learning and Traditional Models**.
+This repository contains the code for the paper **Predicting Incident Dementia in Cerebral Small Vessel Disease: Comparison of Machine Learning and Traditional Models**.
 
 ### Data_Preprocessing
 This folder contains code used to extract and preprocess data from each cohort.
